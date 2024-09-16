@@ -162,20 +162,15 @@ These three main files make up the core pages of the frontend:
 - React.js (>= 17.x.x)
 
 ### Installation
-
-1. Clone the repository:
-
-   bash
-   git clone https://github.com/BensonGathu/azubi-frontend.git
    
 
-2. Navigate to the project directory:
+1. Navigate to the project directory:
 
    bash
    cd azubi-frontend
    
 
-3. Install dependencies:
+2. Install dependencies:
 
    bash
    npm install
